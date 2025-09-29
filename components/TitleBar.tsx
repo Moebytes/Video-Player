@@ -47,15 +47,15 @@ const TitleBar: React.FunctionComponent = (props) => {
     const [transparency, setTransparency] = useState(false)
 
     useEffect(() => {
-        ipcRenderer.invoke("check-for-updates", true)
         const initTheme = async () => {
             const saved = await ipcRenderer.invoke("get-theme")
             const savedTransparency = await ipcRenderer.invoke("get-transparency")
             const transparentValue = String(savedTransparency) === "true"
-            changeTheme(saved, transparentValue)
             changeTransparency(transparentValue)
+            changeTheme(saved, transparentValue)
         }
         initTheme()
+        ipcRenderer.invoke("check-for-updates", true)
     }, [])
 
     const minimize = () => {
