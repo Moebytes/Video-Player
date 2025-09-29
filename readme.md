@@ -2,7 +2,7 @@
 
 <img src="assets/images/readme.png">
 
-This is a video player that can apply reversing and time stretching effects.
+This is a simple video player app.
 
 ### Features:
 - Play local videos, links, and YouTube videos (MP4, MKV, MOV, AVI, WEBM, M4V)
@@ -44,3 +44,4 @@ Open an issue on my GitHub repository.
 
 - [Music Player](https://github.com/Moebits/Music-Player)
 - [Photo Viewer](https://github.com/Moebits/Photo-Viewer)
+
