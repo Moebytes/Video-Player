@@ -113,7 +113,7 @@
     ]
   },
   "author": "Moebytes",
-  "license": "MIT",
+  "license": "CC BY-NC 4.0",
   "devDependencies": {
     "@types/fluent-ffmpeg": "^2.1.18",
     "@types/react": "^17.0.0",
@@ -154,4 +154,5 @@
     "youtube.ts": "^0.3.2"
   }
 }
+
 
