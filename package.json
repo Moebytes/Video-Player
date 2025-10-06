@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moebits/Video-Player"
+    "url": "https://github.com/Moebytes/Video-Player"
   },
   "build": {
-    "appId": "com.moebits.video-player",
+    "appId": "com.moebytes.video-player",
     "productName": "Video Player",
     "icon": "./assets/icon.png",
     "directories": {
@@ -82,7 +82,7 @@
     "publish": {
       "provider": "github",
       "repo": "Video-Player",
-      "owner": "Moebits",
+      "owner": "Moebytes",
       "releaseType": "draft"
     },
     "fileAssociations": [
@@ -112,7 +112,7 @@
       }
     ]
   },
-  "author": "Moebits",
+  "author": "Moebytes",
   "license": "MIT",
   "devDependencies": {
     "@types/fluent-ffmpeg": "^2.1.18",
@@ -154,3 +154,4 @@
     "youtube.ts": "^0.3.2"
   }
 }
+
