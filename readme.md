@@ -27,13 +27,13 @@ This is a simple video player app.
 
 ### Installation
 
-Download the latest exe installer from the [releases](https://github.com/Moebits/Video-Player/releases) tab. Updates can be installed automatically.
+Download the latest exe installer from the [releases](https://github.com/Moebytes/Video-Player/releases) tab. Updates can be installed automatically.
 
 ### MacOS
 
 On MacOS unsigned applications won't open, run this to remove the quarantine flag.
 ```
-xattr -d com.apple.quarantine /Applications/Video\ Player.app
+xattr -d com.apple.quarantine "/Applications/Video Player.app"
 ```
 
 ### Bugs and Requests
@@ -42,6 +42,7 @@ Open an issue on my GitHub repository.
 
 ### Also See
 
-- [Music Player](https://github.com/Moebits/Music-Player)
-- [Photo Viewer](https://github.com/Moebits/Photo-Viewer)
+- [Music Player](https://github.com/Moebytes/Music-Player)
+- [Photo Viewer](https://github.com/Moebytes/Photo-Viewer)
+
 
