@@ -33,7 +33,11 @@ Our design is available here: https://www.figma.com/design/PpYPQAYojONPWedMbDRL8
 ### Purchase
 
 <a href="https://apps.apple.com/us/app/frame-player/id6760277892" target="_blank">
-  <img src="assets/images/mac-app-store.svg" style="height:60px"/>
+  <img src="assets/images/mac-app-store.svg" style="height:60px; margin-right:10px;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://apps.microsoft.com/store/detail/9NF7NHT63XVQ" target="_blank">
+  <img src="assets/images/microsoft-store.svg" style="height:60px"/>
 </a>
 <br/><br/>
 
